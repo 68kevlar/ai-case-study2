@@ -7,13 +7,17 @@ EUREKA LABS IS TAKING SCHOOL TO A WHOLE NEW LEVEL
 Eureka Labs
 
 * When was the company incorporated?
-The San Francisco-based company regeistered as an LLC on June 24, 2024.
+The San Francisco-based company regeistered as an LLC on June 24, 2024.(1)
 
 * Who are the founders of the company?
 Alexej Karpathy - former head of AI at Tesla and AI researcher at OpenAI.
 
 * How did the idea for the company (or project) come about?
-The idea behind Eureka Labs is to bring very high-level teaching to everyone. In an example Mr. Karpathy gave in his post announcing the project: "...in the case of physics one could imagine working through very high-quality course materials together with [Richard] Feynman, who is there to guide you every step of the way. Unfortunately, subject matter experts who are deeply passionate, great at teaching, infinitely patient and fluent in all of the world's languages are also very scarce and cannot personally tutor all 8 billion of us on demand.". The foundation is to be able to teach anything to anyone.
+The idea behind Eureka Labs is to bring very high-level teaching to everyone. In an example Mr. Karpathy gave in his post announcing the project: 
+
+        "...in the case of physics one could imagine working through very high-quality course materials together with [Richard] Feynman, who is there to guide you every step of the way. Unfortunately, subject matter experts who are deeply passionate, great at teaching, infinitely patient and fluent in all of the world's languages are also very scarce and cannot personally tutor all 8 billion of us on demand.".(2)
+
+* The foundation is to be able to teach anything to anyone.
 
 * How is the company funded? How much funding have they received?
 Eureka Labs appears to be self-funded but there is no disclosure on the amount used for startup.
@@ -47,7 +51,7 @@ Automated administration - AI can assist with automating grading systems, schedu
 
 
 * What are the other major companies in this field?
-Some of the top ten include:
+Some of the top ten include(3):
 Riiid - S. Korea
 Sana Labs - Sweden
 Teachmint - India
@@ -57,30 +61,37 @@ Memrise - United Kingdom
 ## Results
 
 * What has been the business impact of this company so far?
-ALthough Eureka Labs is still in its infancy, its largest impact has been its education model that has human teachers form the course materials which AI teaching assistants guide students through their educational experience. This model makes high-level education more available.
+ALthough Eureka Labs is still in its infancy, its largest impact has been its education model that has human teachers form the course materials which AI teaching assistants guide students through their educational experience. This model makes high-level education more available(4).
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 Student engagement and retention - Although still new, Eureka Labs seems to accell with good ratings by clients and partners
 Value Stream Optimization - Eureka Labs focuses on optimizing delivery of its product, improving client experiences and allowing its team to deliver value, and by reducing technical debt. By following the sequence of defending, building, validating, and releasing, this plan ensures an agile and efficient workflow.
 Customer feedback an satisfaction - Eureka Labs has been applauded with positive feedback from its clients and partners. Both are reflections of their strong team
-Net Promoter Score (NPS) - An score of 79 is what Eureka Labs has been able to achieve so far, which indicates a strong potential of loyalty by its clients and the likelyhood those clients will recommend their services.
+Net Promoter Score (NPS) - An score of 79 is what Eureka Labs has been able to achieve so far, which indicates a strong potential of loyalty by its clients and the likelyhood those clients will recommend their services.(5)
 
 * How is your company performing relative to competitors in the same field?
 ALthough in its infancy, Eureka Labs' unique approach sets it apart from its competitors. Bacause of its infancy, it's too early to make a good comparison to established competitors.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) While developing their product, I would advise that the create oitne with a large emphasis on ethical AI.
 
-* Why do you think that offering this product or service would benefit the company?
 
-* What technologies would this additional product or service utilize?
+* Why do you think that offering this product or service would benefit the company? With focus on ethical AI, it would address privacy, transparency, partiality and other issues.
 
-* Why are these technologies appropriate for your solution?
+* What technologies would this additional product or service utilize? Federated Learning, Explainable AI, and Differential Privacy are just a few technologies that would be utilized to incorporate ethical AI into cirriculum.
 
-https://techcrunch.com/2024/07/16/after-tesla-and-openai-andrej-karpathys-startup-aims-to-apply-ai-assistants-to-education/?utm_source=tldrnewsletter
+* Why are these technologies appropriate for your solution? Federated Learning can help keep data decentralized and allows training on local data, thus increasing security of that data. Explainable AI can increase trust in their models using developmental transparency to explain the decision processes behind them. Differential Privacy can dafeguard data privacy while allowing purposeful insight to be brought forward from data analysis.(6)
 
-https://x.com/karpathy/status/1813263734707790301
+(1)https://techcrunch.com/2024/07/16/after-tesla-and-openai-andrej-karpathys-startup-aims-to-apply-ai-assistants-to-education/?utm_source=tldrnewsletter
 
-https://eurekalabs.ai/
+(2)https://x.com/karpathy/status/1813263734707790301
+
+(3)https://beetroot.co/edtech/top-10-rising-ai-education-startups-to-watch-in-2023/
+
+(4)https://eurekalabs.ai/
+
+(5)https://www.eurekalabs.io/blog/
+
+(6)https://chatgpt.com/c/8a8b9db9-8d51-4d8e-ae50-cc713cf8dfe4
 
