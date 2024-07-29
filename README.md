@@ -7,7 +7,7 @@ EUREKA LABS IS TAKING SCHOOL TO A WHOLE NEW LEVEL
 Eureka Labs
 
 * When was the company incorporated?
-The San Francisco-based company regeistered as an LLC on June 24, 2024.(1)
+The San Francisco-based company registered as an LLC on June 24, 2024.(1)
 
 * Who are the founders of the company?
 Alexej Karpathy - former head of AI at Tesla and AI researcher at OpenAI.
@@ -32,11 +32,11 @@ Although there are many field experts for all sciences, businesses, etc..., ther
 The intended customer for Eureka Labs is anyone who seriously wants to learn about anything and have the necessary guidance to do so. 
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-Eureka Labs has a market niche that is not yet occupied by any other notable company. According to Karpathy, the course materials will still be built and designed by teachers, but they could be assisted by the Eureka Labs AI asssistant. Although the idea is still in early phases of testing, studies have found that the use of AI assistants have improved students' grades.
+Eureka Labs has a market niche that is not yet occupied by any other notable company. According to Karpathy, the course materials will still be built and designed by teachers, but they could be assisted by the Eureka Labs AI assistant. Although the idea is still in early phases of testing, studies have found that the use of AI assistants have improved students' grades.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-Eureka Labs is using LLM (Large Lannguage Models) that can recognize and generate text. AI-powered teaching, based on LLMs is being used to create customized content and guidance to students. The flagship class given by Eureka Labs is LLM101n, which teaches students how to create their own LLMs.
-Eureka Labs also uses AI-integrated cirriculum that is designed by experts, then incorporated to create and AI-native experience. Combining the two has aims to make high-quality education available and more personalized.
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing & mdash; you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Eureka Labs is using LLM (Large Language Models) that can recognize and generate text. AI-powered teaching, based on LLMs is being used to create customized content and guidance to students. The flagship class given by Eureka Labs is LLM101n, which teaches students how to create their own LLMs.
+Eureka Labs also uses AI-integrated curriculum that is designed by experts, then incorporated to create and AI-native experience. Combining the two has aims to make high-quality education available and more personalized.
 AI-assisted guidance is provided by Eureka Labs in order to help efficiently and accurately navigate content and support, as if they're learning directly from the field expert.
 
 ## Landscape
@@ -61,27 +61,27 @@ Memrise - United Kingdom
 ## Results
 
 * What has been the business impact of this company so far?
-ALthough Eureka Labs is still in its infancy, its largest impact has been its education model that has human teachers form the course materials which AI teaching assistants guide students through their educational experience. This model makes high-level education more available(4).
+Although Eureka Labs is still in its infancy, its largest impact has been its education model that has human teachers form the course materials which AI teaching assistants guide students through their educational experience. This model makes high-level education more available(4).
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
-Student engagement and retention - Although still new, Eureka Labs seems to accell with good ratings by clients and partners
+Student engagement and retention - Although still new, Eureka Labs seems to excel with good ratings by clients and partners
 Value Stream Optimization - Eureka Labs focuses on optimizing delivery of its product, improving client experiences and allowing its team to deliver value, and by reducing technical debt. By following the sequence of defending, building, validating, and releasing, this plan ensures an agile and efficient workflow.
 Customer feedback an satisfaction - Eureka Labs has been applauded with positive feedback from its clients and partners. Both are reflections of their strong team
-Net Promoter Score (NPS) - An score of 79 is what Eureka Labs has been able to achieve so far, which indicates a strong potential of loyalty by its clients and the likelyhood those clients will recommend their services.(5)
+Net Promoter Score (NPS) - An score of 79 is what Eureka Labs has been able to achieve so far, which indicates a strong potential of loyalty by its clients and the likelihood those clients will recommend their services.(5)
 
 * How is your company performing relative to competitors in the same field?
-ALthough in its infancy, Eureka Labs' unique approach sets it apart from its competitors. Bacause of its infancy, it's too early to make a good comparison to established competitors.
+Although in its infancy, Eureka Labs' unique approach sets it apart from its competitors. Because of its infancy, it's too early to make a good comparison to established competitors.
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) While developing their product, I would advise that the create oitne with a large emphasis on ethical AI.
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) While developing their product, I would advise that the create one with a large emphasis on ethical AI.
 
 
 * Why do you think that offering this product or service would benefit the company? With focus on ethical AI, it would address privacy, transparency, partiality and other issues.
 
-* What technologies would this additional product or service utilize? Federated Learning, Explainable AI, and Differential Privacy are just a few technologies that would be utilized to incorporate ethical AI into cirriculum.
+* What technologies would this additional product or service utilize? Federated Learning, Explainable AI, and Differential Privacy are just a few technologies that would be utilized to incorporate ethical AI into curriculum.
 
-* Why are these technologies appropriate for your solution? Federated Learning can help keep data decentralized and allows training on local data, thus increasing security of that data. Explainable AI can increase trust in their models using developmental transparency to explain the decision processes behind them. Differential Privacy can dafeguard data privacy while allowing purposeful insight to be brought forward from data analysis.(6)
+* Why are these technologies appropriate for your solution? Federated Learning can help keep data decentralized and allows training on local data, thus increasing security of that data. Explainable AI can increase trust in their models using developmental transparency to explain the decision processes behind them. Differential Privacy can safeguard data privacy while allowing purposeful insight to be brought forward from data analysis.(6)
 
 (1)https://techcrunch.com/2024/07/16/after-tesla-and-openai-andrej-karpathys-startup-aims-to-apply-ai-assistants-to-education/?utm_source=tldrnewsletter
 
